@@ -1,0 +1,9 @@
+.container {
+    height: 90dvh;
+    width: 90dvh;
+    display: flex;
+    margin: auto;
+}
+.column {
+    flex: 1;
+}
